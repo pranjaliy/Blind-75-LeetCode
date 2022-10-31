@@ -83,6 +83,6 @@ Implement Trie (Prefix Tree)
 Add and Search Word
 Word Search II
 ### Heap
-Merge K Sorted Lists
-Top K Frequent Elements
-Find Median from Data Stream
+23. Merge K Sorted Lists
+347. Top K Frequent Elements
+295. Find Median from Data Stream
